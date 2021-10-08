@@ -5017,11 +5017,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Project_04_sum_of_2_numbers",
-      "projectName": "Project_04_sum_of_2_numbers",
-      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Project_04_sum_of_2_numbers\\.local",
+      "projectUniqueName": "Leao Year or Not",
+      "projectName": "Leao Year or Not",
+      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Leap Year or Not\\.local",
       "packagesPath": "C:\\Users\\Ashu & Suhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Project_04_sum_of_2_numbers\\.local"
+      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Leap Year or Not\\.local"
     },
     "frameworks": {
       "net461": {

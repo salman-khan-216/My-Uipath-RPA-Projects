@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DqoxhKWOLrPHZHF81/DinUxmSait6/w5MpAST+iFS0Xil+r0E4OWMiSKjgoeVzmcB9xDX4kde/C3lGRphhKx7Q==",
+  "dgSpecHash": "IKwS0wDDevnZAGwet6MgJ95yPG+bJ6hyMPDiMgLc0HGbaKXJcgUZGMcHJf7drqepMrugt8hOkI2vjG7Awv95Ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\workflow\\Notepad_automation\\.local\\",
+  "projectFilePath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Project_03_Notepad_automation\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Ashu & Suhana\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Ashu & Suhana\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

@@ -5017,11 +5017,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Project_04_sum_of_2_numbers",
-      "projectName": "Project_04_sum_of_2_numbers",
-      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Project_04_sum_of_2_numbers\\.local",
+      "projectUniqueName": "Data_table_project",
+      "projectName": "Data_table_project",
+      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Data_table_project\\.local",
       "packagesPath": "C:\\Users\\Ashu & Suhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Project_04_sum_of_2_numbers\\.local"
+      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Data_table_project\\.local"
     },
     "frameworks": {
       "net461": {

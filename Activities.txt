@@ -1,0 +1,82 @@
+The Build Data Table Activity:
+By using this activity, you choose the number of columns and the data type of each of them. Moreover, you can configure each column with specific options like allow null values, unique values, auto-increment (for numbers), default value and length (for strings).
+
+
+The Read Range Activities:
+This activity gets the content of a worksheet (or a selection from that worksheet) and stores it in a DataTable variable, which can be created from the Properties panel using Ctrl + K.
+
+
+The Read CSV Activity:
+This activity captures the content of a CSV file and stores it in a DataTable variable. Although not commonly used anymore, there are still legacy or internal-built applications that work with this kind of documents.
+
+
+The Data Scraping Action:
+This functionality of UiPath Studio enables you to extract structured data from your browser, application or document to a DataTable. 
+
+
+The Generate Data Table From Text Activity:
+Can be used to create a DataTable from structured text, by letting the user indicate the row and column separators.
+
+
+Add Data Column:
+Adds a column to an existing DataTable variable. The input data can be of DataColumn type or the column can be added empty, by specifying the data type and configuring the options (allowing null values, requesting unique values, auto-incrementing, default value and maximum length). 
+
+
+Add Data Row:
+Adds a new row to an existing DataTable variable. The input data can be of DataRow type or can be entered as an Array Row, by matching each object with the data type of each column. 
+
+Build Data Table:
+Is used to create a DataTable using a dedicated window. This activity allows the customization of number of columns and type of data for each column.
+
+Clear Data Table:
+Clears all the data in an existing DataTable variable. 
+
+
+Filter Data Table:
+Allows filtering a DataTable through a Filter Wizard, using various conditions. This activity can be configured to create a new DataTable for the output of the activity or to keep the existing one and filter (delete) the entries that do not match the filtering conditions.
+
+For Each Row in Data Table:
+Is used to perform a certain activity for each row of a DataTable (similar to a For Each loop).
+
+Generate Data Table From Text:
+Can be used to create a DataTable from structured text, by letting the user indicate the row and column separators.
+
+Join Data Tables:
+Combines rows from two tables by using values common to each other using the Join Wizard, according to a Join rule that answers the question "What to do with the data that doesn't match?". It is one of the most useful activities in business scenarios, where working with more than one Data Table is very common. This is why we'll cover the topic more in-depth in the next lessons.
+
+Lookup Data Table
+–
+It is similar to vLookup in Excel. You can search for a provided value in a specified DataTable, and the RowIndex returns its value.  Or it can be configured to return the value from a cell with the given coordinates (RowIndex and Target Column). 
+
+Merge Data Table
+–
+Is used to append a specified DataTable to the current DataTable. The operation is more simple than the Join Data Type activity, as it has 4 predefined actions to perform over the missing schema.
+
+Output Data Table
+–
+Writes a DataTable to a string using the CSV format.
+
+Remove Data Column
+–
+Removes a certain column from a specified DataTable. The input may consist of the column index, column name or a Data Column variable.
+
+Remove Data Row
+–
+Removes a row from a specified DataTable. The input may consist of the row index or a Data Row variable.
+
+Remove Duplicate Rows
+–
+Removes the duplicate rows from a specified DataTable variable, keeping only the first occurrence.
+
+
+Sort Data Table
+–
+Can sort a DataTable ascending or descending based on the values in a specific column.
+
+Get Row Item
+–
+Retrieves a value from a row in a DataTable according to a specified column.
+
+Update Row Item
+–
+Assigns a specified value to the indicated column of a DataTable row.
