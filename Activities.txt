@@ -80,3 +80,18 @@ Retrieves a value from a row in a DataTable according to a specified column.
 Update Row Item
 –
 Assigns a specified value to the indicated column of a DataTable row.
+
+
+Do While
+–
+It executes a specific sequence while a condition is met. The condition is evaluated after each execution of the statements. 
+For example, a robot could perform a refresh command on a website and then check if a relevant element was loaded. It will continue the refresh - check cycle until the element is loaded. 
+The key difference between Do While and While is that for Do While, the activities contained within it are executed at least once.
+
+
+While
+–
+It executes a specific sequence while a condition is met. The condition is evaluated before each execution of the statements.
+For example, if a Robot would play Blackjack, it should calculate the hand before deciding whether to draw another card.
+
+
