@@ -5019,9 +5019,9 @@
     "restore": {
       "projectUniqueName": "Generic_Value",
       "projectName": "Generic_Value",
-      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\Generic_Value\\.local",
+      "projectPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Generic_Value\\.local",
       "packagesPath": "C:\\Users\\Ashu & Suhana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\Generic_Value\\.local"
+      "outputPath": "C:\\Users\\Ashu & Suhana\\Documents\\UiPath\\My Uipath RPA Projects\\Generic_Value\\.local"
     },
     "frameworks": {
       "net461": {
